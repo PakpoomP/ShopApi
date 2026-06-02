@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InterviewTTBApi.API/InterviewTTBApi.API.csproj" />
+    <Project Path="src/InterviewTTBApi.Application/InterviewTTBApi.Application.csproj" />
+    <Project Path="src/InterviewTTBApi.Domain/InterviewTTBApi.Domain.csproj" />
+    <Project Path="src/InterviewTTBApi.Infrastructure/InterviewTTBApi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InterviewTTBApi.Application.UnitTests/InterviewTTBApi.Application.UnitTests.csproj" />
+  </Folder>
+</Solution>

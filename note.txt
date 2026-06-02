@@ -1,0 +1,7 @@
+dotnet ef migrations add InitialCreate \
+--project InterviewTTBApi.Infrastructure \
+--startup-project InterviewTTBApi.API
+
+dotnet ef database update \
+--project InterviewTTBApi.Infrastructure \
+--startup-project InterviewTTBApi.API
